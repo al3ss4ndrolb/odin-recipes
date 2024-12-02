@@ -1,0 +1,1 @@
+This is just a text file in which i reflect aboout what i've learnt so far. I think i did ilearn something. git basics seem tricky, they'll take a while to get familiar with. Html seems ok. Feeling good on that. Let's see, will update once i finish the assignment. 
