@@ -1,0 +1,11 @@
+--2024-12-02 16:33:17--  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlE_0PbovhjqoGoW7Etl6NGja3TeizNtA4A
+Resolving encrypted-tbn0.gstatic.com (encrypted-tbn0.gstatic.com)... 142.250.200.14, 2a00:1450:4009:827::200e
+Connecting to encrypted-tbn0.gstatic.com (encrypted-tbn0.gstatic.com)|142.250.200.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7070 (6.9K) [image/jpeg]
+Saving to: ‘pbj-image.jpg’
+
+pbj-image.jpg        0%[               ]       0  --.-KB/s               pbj-image.jpg      100%[==============>]   6.90K  --.-KB/s    in 0.03s   
+
+2024-12-02 16:33:18 (256 KB/s) - ‘pbj-image.jpg’ saved [7070/7070]
+
