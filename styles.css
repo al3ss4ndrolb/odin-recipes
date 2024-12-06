@@ -1,0 +1,27 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+}
+
+.recipes-card {
+    background-color: #07b3b3;
+    border: solid black;
+    margin: 2em;
+}
+
+h1 {
+    background-color: #e67efd;
+    border: solid red;
+    margin: 40px 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 { 
+    margin: 20px;
+}
+
+.recipe-list a {
+    font-size: 18px;
+    color: #000000;
+    margin: 20px;
+}
