@@ -1,0 +1,21 @@
+.recipe-card { 
+    background-color: #e5a8e5;
+    margin: 2em;
+    padding: 1em;
+    border: solid;
+    font-size: 18px;   
+}
+
+.recipe-card h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.lasagna-img { 
+    display: block;
+    height: 310px; 
+    width: 310px;
+    margin: 20px auto;
+
+}
